@@ -15,6 +15,12 @@ export default {
       title: 'Title'
     },
     {
+      name: 'subtitle',
+      type: 'string',
+      title: 'Subtitle',
+      description: 'Here comes a subtitle'
+    },
+    {
       name: 'description',
       type: 'text',
       title: 'Description',
