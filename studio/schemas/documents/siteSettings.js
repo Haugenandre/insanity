@@ -18,7 +18,7 @@ export default {
       name: 'subtitle',
       type: 'string',
       title: 'Subtitle',
-      description: 'Here comes a description'
+      description: 'Keep it short and neet!'
     },
     {
       name: 'description',
